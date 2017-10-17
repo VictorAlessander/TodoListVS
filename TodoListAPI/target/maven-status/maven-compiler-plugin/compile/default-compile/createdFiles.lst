@@ -1,0 +1,5 @@
+com/app/todolist/controller/TodoController.class
+com/app/todolist/entity/Todo.class
+com/app/todolist/Application.class
+com/app/todolist/service/TodoService.class
+com/app/todolist/repository/TodoRepository.class
